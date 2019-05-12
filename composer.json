@@ -1,5 +1,5 @@
 {
-    "name": "al/kmeans",
+    "name": "alanlengkoan/kmeans",
     "description": "library kmeans clustering yang dibuat menggunakan php.",
     "type": "library",
     "license": "MIT",
